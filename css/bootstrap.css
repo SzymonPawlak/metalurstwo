@@ -4380,6 +4380,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand img {
   position: absolute;
+  width: 13%;
 }
 .navbar-brand h1 {
   position: relative;
